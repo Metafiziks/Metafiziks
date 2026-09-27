@@ -10,5 +10,6 @@ Data and AI engineer based in Seattle, building production data & marketing-auto
 - [`soniqute-dance-studio`](https://github.com/Metafiziks/soniqute-dance-studio): SoniQute, an AI dance-video generation studio ([live demo](https://metafiziks.github.io/soniqute-dance-studio/))
 - [`stationforge`](https://github.com/Metafiziks/stationforge): a broadcast-media asset studio built on Gemini
 - [`bagsbro-content-engine`](https://github.com/Metafiziks/bagsbro-content-engine): an autonomous social content pipeline (art generation, copywriting, auto-publishing)
+- [`grizl-ugc-engine`](https://github.com/Metafiziks/grizl-ugc-engine): GRIZL's always-on UGC scoring engine, with post discovery, image dedupe, GPT-based quality scoring, and a leaderboard
 
 [metafizik.io](https://metafizik.io) · [LinkedIn](https://www.linkedin.com/in/jeremiahwilliams1/)
