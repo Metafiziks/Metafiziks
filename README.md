@@ -1,4 +1,4 @@
-### Hi, I'm Jeremiah
+### Hi, I'm Jeremiah (Metafizik)
 
 Data and AI engineer based in Seattle, building production data & marketing-automation platforms on Microsoft Fabric, Azure, Salesforce Marketing Cloud and Dynamics 365 - plus AI R&D (RAG search agents and observability pipelines across AWS, Azure, and GCP) and Creative Technology projects.
 
