@@ -1,6 +1,9 @@
 ### Hi, I'm Jeremiah
 
-Data & AI engineer based in Seattle. I build RAG search agents and observability pipelines across AWS, Azure, and GCP — plus creative projects on the side under GRIZL and SoniQute.
+Data engineer based in Seattle, building production data & marketing-automation platforms on Microsoft Fabric, Azure Data Factory, and Dynamics 365 — plus AI R&D (RAG search agents and observability pipelines across AWS, Azure, and GCP) and Creative Technology projects on the side, under GRIZL and SoniQute.
+
+**Writing**
+- A series on data & marketing automation at Microsoft — Fabric, ADF, and Dynamics 365 Customer Insights Journeys in production — coming soon on [metafizik.io](https://metafizik.io)
 
 **Enterprise / AI infra**
 - The same RAG search-agent pattern deployed three ways: [`aws-bedrock-agent`](https://github.com/Metafiziks/aws-bedrock-agent) (Bedrock + Terraform), [`azd-foundry-search-agent`](https://github.com/Metafiziks/azd-foundry-search-agent) (Azure AI Foundry), [`gcp-search-agent`](https://github.com/Metafiziks/gcp-search-agent) (Vertex AI + Cloud Run)
