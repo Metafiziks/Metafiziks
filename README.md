@@ -1,6 +1,6 @@
 ### Hi, I'm Jeremiah
 
-Data and AI engineer based in Seattle, building production data & marketing-automation platforms on Microsoft Fabric, Azure Data Factory, and Dynamics 365 - plus AI R&D (RAG search agents and observability pipelines across AWS, Azure, and GCP) and Creative Technology projects on the side.
+Data and AI engineer based in Seattle, building production data & marketing-automation platforms on Microsoft Fabric, Azure, Salesforce Marketing Cloud and Dynamics 365 - plus AI R&D (RAG search agents and observability pipelines across AWS, Azure, and GCP) and Creative Technology projects.
 
 **Enterprise / AI infra**
 - The same RAG search-agent pattern deployed three ways: [`aws-bedrock-agent`](https://github.com/Metafiziks/aws-bedrock-agent) (Bedrock + Terraform), [`azd-foundry-search-agent`](https://github.com/Metafiziks/azd-foundry-search-agent) (Azure AI Foundry), [`gcp-search-agent`](https://github.com/Metafiziks/gcp-search-agent) (Vertex AI + Cloud Run)
